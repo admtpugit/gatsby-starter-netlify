@@ -30,7 +30,6 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/products/index.md"
-        create: true
         label: "Products Page"
         name: "products"
         fields:
